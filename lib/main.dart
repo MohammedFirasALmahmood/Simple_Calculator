@@ -349,7 +349,6 @@ class _FirstScreenState extends State<FirstScreen> {
                                       T.text = "${T.text}.";
                                       LastCharIsNumber = false;
                                       HasDot = true;
-
                                     }
                                   },
                                   child: const CircleAvatar(
